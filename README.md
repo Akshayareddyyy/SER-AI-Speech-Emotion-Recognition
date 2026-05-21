@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SER-AI-Speech-Emotion-Recognition
 A full-stack AI speech emotion recognition system with a React frontend, Flask API, and machine learning models for detecting emotions from voice audio.
 =======
@@ -178,20 +178,5 @@ Future improvements
 - Add sample demo audio clips and an optional hosted tutorial video set.
 - Improve accessibility, add i18n support, and add session/history for users.
 
-Contact / License
-------------------
-This repository is provided as-is for research and demo purposes. See license file if included.
 
-- 10,322 audio samples
-- 115 speakers
-- 8 emotion classes
-- Speaker-independent 80/20 split
-- No speaker overlap
-
-Notes:
-- The repeated split validation mean accuracy is 57.59% ± 1.92%.
-- Current backend may still use the Improved Conv1D model unless updated.
-- Best research model is `wav2vec2` + tuned `LinearSVC`.
-- Deploying `wav2vec2` requires loading the wav2vec2 feature extractor and the `LinearSVC` classifier in the backend; do not update the backend yet.
-
->>>>>>> dbd08c8 (feat: update SER AI frontend and prediction API docs)
+ dbd08c8 (feat: update SER AI frontend and prediction API docs)
