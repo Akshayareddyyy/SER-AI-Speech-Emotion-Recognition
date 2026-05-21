@@ -1,0 +1,8 @@
+numpy
+scikit-learn
+librosa
+joblib
+soundfile
+scipy
+tensorflow
+pydub

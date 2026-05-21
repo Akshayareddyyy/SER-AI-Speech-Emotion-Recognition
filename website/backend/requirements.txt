@@ -1,0 +1,9 @@
+Flask
+flask-cors
+librosa
+tensorflow
+joblib
+numpy
+soundfile
+scipy
+pydub
