@@ -1,6 +1,6 @@
 
 # SER-AI-Speech-Emotion-Recognition
-=======
+
 # Speech Emotion Recognition — Step 1
 
 This step trains a RandomForest model using only the RAVDESS and CREMA-D datasets.
